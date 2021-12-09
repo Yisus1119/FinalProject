@@ -8,10 +8,10 @@ using System.Windows;
 
 namespace ClaseDatos
 {
-    internal class Conexion
+    internal class ClsConexion
     {
         SqlConnection con;
-        public Conexion()
+        public ClsConexion()
         {
             con = new SqlConnection("Server=DESKTOP-2TK8MGE; Database=Mi Primera Vez; Integrated security=true");
         }
