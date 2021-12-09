@@ -1,0 +1,9 @@
+C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\bin\Debug\ClaseNegocios.dll
+C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\bin\Debug\ClaseNegocios.pdb
+C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\bin\Debug\ClaseDatos.dll
+C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\bin\Debug\ClaseDatos.pdb
+C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\obj\Debug\ClaseNegocios.csproj.AssemblyReference.cache
+C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\obj\Debug\ClaseNegocios.csproj.CoreCompileInputs.cache
+C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\obj\Debug\ClaseNegocios.csproj.CopyComplete
+C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\obj\Debug\ClaseNegocios.dll
+C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\obj\Debug\ClaseNegocios.pdb
