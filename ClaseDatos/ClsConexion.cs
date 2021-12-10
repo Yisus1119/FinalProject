@@ -13,7 +13,7 @@ namespace ClaseDatos
         SqlConnection con;
         public ClsConexion()
         {
-            con = new SqlConnection("Server=DESKTOP-2TK8MGE; Database=Mi Primera Vez; Integrated security=true");
+            con = new SqlConnection("Server=localhost Database=SellPoint; Integrated security=true");
         }
         public SqlConnection Conectar()
         {

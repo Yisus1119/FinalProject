@@ -7,3 +7,12 @@ C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\obj\Debug
 C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\obj\Debug\ClaseNegocios.csproj.CopyComplete
 C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\obj\Debug\ClaseNegocios.dll
 C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\obj\Debug\ClaseNegocios.pdb
+C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ClaseNegocios\bin\Debug\ClaseNegocios.dll
+C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ClaseNegocios\bin\Debug\ClaseNegocios.pdb
+C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ClaseNegocios\bin\Debug\ClaseDatos.dll
+C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ClaseNegocios\bin\Debug\ClaseDatos.pdb
+C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ClaseNegocios\obj\Debug\ClaseNegocios.csproj.AssemblyReference.cache
+C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ClaseNegocios\obj\Debug\ClaseNegocios.csproj.CoreCompileInputs.cache
+C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ClaseNegocios\obj\Debug\ClaseNegocios.csproj.CopyComplete
+C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ClaseNegocios\obj\Debug\ClaseNegocios.dll
+C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ClaseNegocios\obj\Debug\ClaseNegocios.pdb
