@@ -8,11 +8,10 @@ using System.Threading.Tasks;
 
 namespace ClaseDatos
 {
-    internal class Metodos
+    public class Metodos
     {
         //Instanciando la clase de la conexion a la base de datos
         private ClsConexion conexion = new ClsConexion();
-
         SqlDataReader leer;
         DataTable tabla = new DataTable();
         SqlCommand comando = new SqlCommand();
