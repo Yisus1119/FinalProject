@@ -8,7 +8,7 @@ using System.Windows;
 
 namespace ClaseDatos
 {
-    internal class ClsConexion
+    public class ClsConexion
     {
         SqlConnection con;
         public ClsConexion()
