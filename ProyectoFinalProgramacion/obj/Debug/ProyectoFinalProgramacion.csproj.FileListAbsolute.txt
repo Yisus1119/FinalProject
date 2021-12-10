@@ -21,3 +21,14 @@ C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ProyectoFinalProgramacion\
 C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ProyectoFinalProgramacion\bin\Debug\ProyectoFinalProgramacion.exe
 C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ProyectoFinalProgramacion\bin\Debug\ProyectoFinalProgramacion.pdb
 C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ProyectoFinalProgramacion\obj\Debug\ProyectoFinalProgramacion.CRUD.resources
+C:\Users\smail\Source\Repos\FinalProject\ProyectoFinalProgramacion\bin\Debug\ProyectoFinalProgramacion.exe.config
+C:\Users\smail\Source\Repos\FinalProject\ProyectoFinalProgramacion\bin\Debug\ProyectoFinalProgramacion.exe
+C:\Users\smail\Source\Repos\FinalProject\ProyectoFinalProgramacion\bin\Debug\ProyectoFinalProgramacion.pdb
+C:\Users\smail\Source\Repos\FinalProject\ProyectoFinalProgramacion\obj\Debug\ProyectoFinalProgramacion.csproj.AssemblyReference.cache
+C:\Users\smail\Source\Repos\FinalProject\ProyectoFinalProgramacion\obj\Debug\ProyectoFinalProgramacion.CRUD.resources
+C:\Users\smail\Source\Repos\FinalProject\ProyectoFinalProgramacion\obj\Debug\ProyectoFinalProgramacion.Form1.resources
+C:\Users\smail\Source\Repos\FinalProject\ProyectoFinalProgramacion\obj\Debug\ProyectoFinalProgramacion.Properties.Resources.resources
+C:\Users\smail\Source\Repos\FinalProject\ProyectoFinalProgramacion\obj\Debug\ProyectoFinalProgramacion.csproj.GenerateResource.cache
+C:\Users\smail\Source\Repos\FinalProject\ProyectoFinalProgramacion\obj\Debug\ProyectoFinalProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\smail\Source\Repos\FinalProject\ProyectoFinalProgramacion\obj\Debug\ProyectoFinalProgramacion.exe
+C:\Users\smail\Source\Repos\FinalProject\ProyectoFinalProgramacion\obj\Debug\ProyectoFinalProgramacion.pdb

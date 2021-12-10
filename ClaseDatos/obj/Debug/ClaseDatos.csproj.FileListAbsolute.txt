@@ -10,3 +10,9 @@ C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ClaseDatos\obj\Debug\Clase
 C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ClaseDatos\obj\Debug\ClaseDatos.csproj.CoreCompileInputs.cache
 C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ClaseDatos\obj\Debug\ClaseDatos.dll
 C:\Users\paraq\source\repos\ProyectoFinalProgramacion\ClaseDatos\obj\Debug\ClaseDatos.pdb
+C:\Users\smail\Source\Repos\FinalProject\ClaseDatos\bin\Debug\ClaseDatos.dll
+C:\Users\smail\Source\Repos\FinalProject\ClaseDatos\bin\Debug\ClaseDatos.pdb
+C:\Users\smail\Source\Repos\FinalProject\ClaseDatos\obj\Debug\ClaseDatos.csproj.AssemblyReference.cache
+C:\Users\smail\Source\Repos\FinalProject\ClaseDatos\obj\Debug\ClaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\smail\Source\Repos\FinalProject\ClaseDatos\obj\Debug\ClaseDatos.dll
+C:\Users\smail\Source\Repos\FinalProject\ClaseDatos\obj\Debug\ClaseDatos.pdb

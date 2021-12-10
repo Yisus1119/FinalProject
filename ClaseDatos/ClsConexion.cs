@@ -13,7 +13,7 @@ namespace ClaseDatos
         SqlConnection con;
         public ClsConexion()
         {
-            con = new SqlConnection("Server=localhost Database=SellPoint; Integrated security=true");
+            con = new SqlConnection("Server=localhost Database=SellPoint; Integrated security=true ");
         }
         public SqlConnection Conectar()
         {
