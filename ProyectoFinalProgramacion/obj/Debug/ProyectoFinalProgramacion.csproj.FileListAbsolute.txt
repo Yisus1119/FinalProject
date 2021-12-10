@@ -10,3 +10,4 @@ C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ProyectoFinalProgramaci
 C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ProyectoFinalProgramacion\obj\Debug\ProyectoFinalProgramacion.csproj.CoreCompileInputs.cache
 C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ProyectoFinalProgramacion\obj\Debug\ProyectoFinalProgramacion.exe
 C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ProyectoFinalProgramacion\obj\Debug\ProyectoFinalProgramacion.pdb
+C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ProyectoFinalProgramacion\obj\Debug\ProyectoFinalProgramacion.InsertForm.resources
