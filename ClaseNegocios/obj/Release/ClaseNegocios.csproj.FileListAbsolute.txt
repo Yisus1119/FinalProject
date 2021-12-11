@@ -1,9 +1,0 @@
-C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\bin\Release\ClaseNegocios.dll
-C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\bin\Release\ClaseNegocios.pdb
-C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\bin\Release\ClaseDatos.dll
-C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\bin\Release\ClaseDatos.pdb
-C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\obj\Release\ClaseNegocios.csproj.AssemblyReference.cache
-C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\obj\Release\ClaseNegocios.csproj.CoreCompileInputs.cache
-C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\obj\Release\ClaseNegocios.csproj.CopyComplete
-C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\obj\Release\ClaseNegocios.dll
-C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseNegocios\obj\Release\ClaseNegocios.pdb
