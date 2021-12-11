@@ -79,6 +79,7 @@
             this.InsertarBtn.TabIndex = 3;
             this.InsertarBtn.Text = "Insertar";
             this.InsertarBtn.UseVisualStyleBackColor = true;
+            this.InsertarBtn.Click += new System.EventHandler(this.InsertarBtn_Click);
             // 
             // EditarBtn
             // 
@@ -154,6 +155,7 @@
             this.Controls.Add(this.DataView);
             this.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Name = "CRUD";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "CRUD";
             ((System.ComponentModel.ISupportInitialize)(this.DataView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Estado)).EndInit();

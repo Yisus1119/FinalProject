@@ -17,5 +17,11 @@ namespace ProyectoFinalProgramacion
             InitializeComponent();
         }
 
+        private void VolverBtn_Click(object sender, EventArgs e)
+        {
+            CRUD CR = new CRUD();
+            CR.Show();
+            this.Visible = false;
+        }
     }
 }

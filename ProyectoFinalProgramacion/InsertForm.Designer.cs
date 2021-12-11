@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(InsertForm));
             this.DescripcionTxt = new System.Windows.Forms.RichTextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -64,108 +65,72 @@
             this.comboBox4 = new System.Windows.Forms.ComboBox();
             this.label17 = new System.Windows.Forms.Label();
             this.comboBox5 = new System.Windows.Forms.ComboBox();
+            this.VolverBtn = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
             // 
             // DescripcionTxt
             // 
-            this.DescripcionTxt.Location = new System.Drawing.Point(339, 33);
+            resources.ApplyResources(this.DescripcionTxt, "DescripcionTxt");
             this.DescripcionTxt.Name = "DescripcionTxt";
-            this.DescripcionTxt.Size = new System.Drawing.Size(277, 93);
-            this.DescripcionTxt.TabIndex = 0;
-            this.DescripcionTxt.Text = "";
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(340, 13);
+            resources.ApplyResources(this.label1, "label1");
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(63, 13);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Descripcion";
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 24);
+            resources.ApplyResources(this.label2, "label2");
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(52, 13);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Direccion";
             // 
             // label3
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(12, 69);
+            resources.ApplyResources(this.label3, "label3");
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(115, 13);
-            this.label3.TabIndex = 3;
-            this.label3.Text = "Numero de documento";
             // 
             // label4
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(138, 24);
+            resources.ApplyResources(this.label4, "label4");
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(53, 13);
-            this.label4.TabIndex = 4;
-            this.label4.Text = "Localidad";
             // 
             // DireccionTxt
             // 
-            this.DireccionTxt.Location = new System.Drawing.Point(15, 40);
+            resources.ApplyResources(this.DireccionTxt, "DireccionTxt");
             this.DireccionTxt.Name = "DireccionTxt";
-            this.DireccionTxt.Size = new System.Drawing.Size(112, 20);
-            this.DireccionTxt.TabIndex = 5;
             // 
             // NoDocumentoTxt
             // 
-            this.NoDocumentoTxt.Location = new System.Drawing.Point(15, 85);
+            resources.ApplyResources(this.NoDocumentoTxt, "NoDocumentoTxt");
             this.NoDocumentoTxt.Name = "NoDocumentoTxt";
-            this.NoDocumentoTxt.Size = new System.Drawing.Size(112, 20);
-            this.NoDocumentoTxt.TabIndex = 6;
             // 
             // LocalidadTxt
             // 
-            this.LocalidadTxt.Location = new System.Drawing.Point(141, 40);
+            resources.ApplyResources(this.LocalidadTxt, "LocalidadTxt");
             this.LocalidadTxt.Name = "LocalidadTxt";
-            this.LocalidadTxt.Size = new System.Drawing.Size(112, 20);
-            this.LocalidadTxt.TabIndex = 7;
             // 
             // TipoDocBox
             // 
             this.TipoDocBox.FormattingEnabled = true;
-            this.TipoDocBox.Location = new System.Drawing.Point(141, 85);
+            resources.ApplyResources(this.TipoDocBox, "TipoDocBox");
             this.TipoDocBox.Name = "TipoDocBox";
-            this.TipoDocBox.Size = new System.Drawing.Size(121, 21);
-            this.TipoDocBox.TabIndex = 8;
             // 
             // label5
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(138, 69);
+            resources.ApplyResources(this.label5, "label5");
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(99, 13);
-            this.label5.TabIndex = 9;
-            this.label5.Text = "Tipo de documento";
             // 
             // label6
             // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(12, 115);
+            resources.ApplyResources(this.label6, "label6");
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(66, 13);
-            this.label6.TabIndex = 11;
-            this.label6.Text = "Tipo entidad";
             // 
             // TipoEntBox
             // 
             this.TipoEntBox.FormattingEnabled = true;
-            this.TipoEntBox.Location = new System.Drawing.Point(15, 131);
+            resources.ApplyResources(this.TipoEntBox, "TipoEntBox");
             this.TipoEntBox.Name = "TipoEntBox";
-            this.TipoEntBox.Size = new System.Drawing.Size(121, 21);
-            this.TipoEntBox.TabIndex = 10;
             // 
             // groupBox1
             // 
@@ -179,12 +144,9 @@
             this.groupBox1.Controls.Add(this.NoDocumentoTxt);
             this.groupBox1.Controls.Add(this.TipoDocBox);
             this.groupBox1.Controls.Add(this.LocalidadTxt);
-            this.groupBox1.Location = new System.Drawing.Point(12, 12);
+            resources.ApplyResources(this.groupBox1, "groupBox1");
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(306, 168);
-            this.groupBox1.TabIndex = 13;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Datos personales";
             // 
             // groupBox2
             // 
@@ -200,210 +162,147 @@
             this.groupBox2.Controls.Add(this.label7);
             this.groupBox2.Controls.Add(this.label9);
             this.groupBox2.Controls.Add(this.URLWebTxt);
-            this.groupBox2.Location = new System.Drawing.Point(12, 186);
+            resources.ApplyResources(this.groupBox2, "groupBox2");
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(306, 288);
-            this.groupBox2.TabIndex = 14;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Datos personales";
             // 
             // label10
             // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(14, 155);
+            resources.ApplyResources(this.label10, "label10");
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(78, 13);
-            this.label10.TabIndex = 9;
-            this.label10.Text = "URL Instagram";
             // 
             // URLInstagramTxt
             // 
-            this.URLInstagramTxt.Location = new System.Drawing.Point(17, 171);
+            resources.ApplyResources(this.URLInstagramTxt, "URLInstagramTxt");
             this.URLInstagramTxt.Name = "URLInstagramTxt";
-            this.URLInstagramTxt.Size = new System.Drawing.Size(276, 20);
-            this.URLInstagramTxt.TabIndex = 10;
             // 
             // label8
             // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(14, 112);
+            resources.ApplyResources(this.label8, "label8");
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(80, 13);
-            this.label8.TabIndex = 7;
-            this.label8.Text = "URL Facebook";
             // 
             // URLFacebookTxt
             // 
-            this.URLFacebookTxt.Location = new System.Drawing.Point(17, 128);
+            resources.ApplyResources(this.URLFacebookTxt, "URLFacebookTxt");
             this.URLFacebookTxt.Name = "URLFacebookTxt";
-            this.URLFacebookTxt.Size = new System.Drawing.Size(276, 20);
-            this.URLFacebookTxt.TabIndex = 8;
             // 
             // TelTxt
             // 
-            this.TelTxt.Location = new System.Drawing.Point(15, 40);
+            resources.ApplyResources(this.TelTxt, "TelTxt");
             this.TelTxt.Name = "TelTxt";
-            this.TelTxt.Size = new System.Drawing.Size(112, 20);
-            this.TelTxt.TabIndex = 5;
             // 
             // label7
             // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(12, 24);
+            resources.ApplyResources(this.label7, "label7");
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(49, 13);
-            this.label7.TabIndex = 2;
-            this.label7.Text = "Telefono";
             // 
             // label9
             // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(12, 69);
+            resources.ApplyResources(this.label9, "label9");
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(91, 13);
-            this.label9.TabIndex = 3;
-            this.label9.Text = "URL Pagina Web";
             // 
             // URLWebTxt
             // 
-            this.URLWebTxt.Location = new System.Drawing.Point(15, 85);
+            resources.ApplyResources(this.URLWebTxt, "URLWebTxt");
             this.URLWebTxt.Name = "URLWebTxt";
-            this.URLWebTxt.Size = new System.Drawing.Size(276, 20);
-            this.URLWebTxt.TabIndex = 6;
             // 
             // label12
             // 
-            this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(14, 238);
+            resources.ApplyResources(this.label12, "label12");
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(66, 13);
-            this.label12.TabIndex = 13;
-            this.label12.Text = "URL TikTok";
             // 
             // URLTikTokTxt
             // 
-            this.URLTikTokTxt.Location = new System.Drawing.Point(17, 254);
+            resources.ApplyResources(this.URLTikTokTxt, "URLTikTokTxt");
             this.URLTikTokTxt.Name = "URLTikTokTxt";
-            this.URLTikTokTxt.Size = new System.Drawing.Size(276, 20);
-            this.URLTikTokTxt.TabIndex = 14;
             // 
             // label13
             // 
-            this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(12, 195);
+            resources.ApplyResources(this.label13, "label13");
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(64, 13);
-            this.label13.TabIndex = 11;
-            this.label13.Text = "URL Twitter";
             // 
             // URLTwitterTxt
             // 
-            this.URLTwitterTxt.Location = new System.Drawing.Point(15, 211);
+            resources.ApplyResources(this.URLTwitterTxt, "URLTwitterTxt");
             this.URLTwitterTxt.Name = "URLTwitterTxt";
-            this.URLTwitterTxt.Size = new System.Drawing.Size(276, 20);
-            this.URLTwitterTxt.TabIndex = 12;
             // 
             // CreditosTxt
             // 
-            this.CreditosTxt.Location = new System.Drawing.Point(339, 271);
+            resources.ApplyResources(this.CreditosTxt, "CreditosTxt");
             this.CreditosTxt.Name = "CreditosTxt";
-            this.CreditosTxt.Size = new System.Drawing.Size(112, 20);
-            this.CreditosTxt.TabIndex = 17;
             // 
             // label11
             // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(336, 255);
+            resources.ApplyResources(this.label11, "label11");
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(79, 13);
-            this.label11.TabIndex = 15;
-            this.label11.Text = "Limites creditos";
             // 
             // label15
             // 
-            this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(464, 255);
+            resources.ApplyResources(this.label15, "label15");
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(23, 13);
-            this.label15.TabIndex = 20;
-            this.label15.Text = "Rol";
             // 
             // comboBox3
             // 
             this.comboBox3.AutoCompleteCustomSource.AddRange(new string[] {
-            "Admin",
-            "Supervisor",
-            "User"});
+            resources.GetString("comboBox3.AutoCompleteCustomSource"),
+            resources.GetString("comboBox3.AutoCompleteCustomSource1"),
+            resources.GetString("comboBox3.AutoCompleteCustomSource2")});
             this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(467, 271);
+            resources.ApplyResources(this.comboBox3, "comboBox3");
             this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(121, 21);
-            this.comboBox3.TabIndex = 19;
             // 
             // label14
             // 
-            this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(340, 133);
+            resources.ApplyResources(this.label14, "label14");
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(60, 13);
-            this.label14.TabIndex = 22;
-            this.label14.Text = "Comentario";
             // 
             // ComentarioTxt
             // 
-            this.ComentarioTxt.Location = new System.Drawing.Point(339, 153);
+            resources.ApplyResources(this.ComentarioTxt, "ComentarioTxt");
             this.ComentarioTxt.Name = "ComentarioTxt";
-            this.ComentarioTxt.Size = new System.Drawing.Size(277, 70);
-            this.ComentarioTxt.TabIndex = 21;
-            this.ComentarioTxt.Text = "";
             // 
             // label16
             // 
-            this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(336, 298);
+            resources.ApplyResources(this.label16, "label16");
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(37, 13);
-            this.label16.TabIndex = 24;
-            this.label16.Text = "Status";
             // 
             // comboBox4
             // 
             this.comboBox4.AutoCompleteCustomSource.AddRange(new string[] {
-            "Admin",
-            "Supervisor",
-            "User"});
+            resources.GetString("comboBox4.AutoCompleteCustomSource"),
+            resources.GetString("comboBox4.AutoCompleteCustomSource1"),
+            resources.GetString("comboBox4.AutoCompleteCustomSource2")});
             this.comboBox4.FormattingEnabled = true;
-            this.comboBox4.Location = new System.Drawing.Point(339, 314);
+            resources.ApplyResources(this.comboBox4, "comboBox4");
             this.comboBox4.Name = "comboBox4";
-            this.comboBox4.Size = new System.Drawing.Size(121, 21);
-            this.comboBox4.TabIndex = 23;
             // 
             // label17
             // 
-            this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(464, 298);
+            resources.ApplyResources(this.label17, "label17");
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(54, 13);
-            this.label17.TabIndex = 26;
-            this.label17.Text = "Eliminable";
             // 
             // comboBox5
             // 
             this.comboBox5.AutoCompleteCustomSource.AddRange(new string[] {
-            "Admin",
-            "Supervisor",
-            "User"});
+            resources.GetString("comboBox5.AutoCompleteCustomSource"),
+            resources.GetString("comboBox5.AutoCompleteCustomSource1"),
+            resources.GetString("comboBox5.AutoCompleteCustomSource2")});
             this.comboBox5.FormattingEnabled = true;
-            this.comboBox5.Location = new System.Drawing.Point(467, 314);
+            resources.ApplyResources(this.comboBox5, "comboBox5");
             this.comboBox5.Name = "comboBox5";
-            this.comboBox5.Size = new System.Drawing.Size(121, 21);
-            this.comboBox5.TabIndex = 25;
+            // 
+            // VolverBtn
+            // 
+            resources.ApplyResources(this.VolverBtn, "VolverBtn");
+            this.VolverBtn.Name = "VolverBtn";
+            this.VolverBtn.UseVisualStyleBackColor = true;
+            this.VolverBtn.Click += new System.EventHandler(this.VolverBtn_Click);
             // 
             // InsertForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(776, 540);
+            this.Controls.Add(this.VolverBtn);
             this.Controls.Add(this.label17);
             this.Controls.Add(this.comboBox5);
             this.Controls.Add(this.label16);
@@ -419,7 +318,6 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.DescripcionTxt);
             this.Name = "InsertForm";
-            this.Text = "InsertForm";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
@@ -467,5 +365,6 @@
         private System.Windows.Forms.ComboBox comboBox4;
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.ComboBox comboBox5;
+        private System.Windows.Forms.Button VolverBtn;
     }
 }

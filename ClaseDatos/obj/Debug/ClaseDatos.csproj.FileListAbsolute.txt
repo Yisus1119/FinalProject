@@ -1,6 +1,5 @@
 C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseDatos\bin\Debug\ClaseDatos.dll
 C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseDatos\bin\Debug\ClaseDatos.pdb
-C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseDatos\obj\Debug\ClaseDatos.csproj.AssemblyReference.cache
 C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseDatos\obj\Debug\ClaseDatos.csproj.CoreCompileInputs.cache
 C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseDatos\obj\Debug\ClaseDatos.dll
 C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseDatos\obj\Debug\ClaseDatos.pdb

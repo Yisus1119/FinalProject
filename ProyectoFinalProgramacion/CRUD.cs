@@ -13,5 +13,12 @@ namespace ProyectoFinalProgramacion
         {
             statusBar.Panels[1].Text = System.DateTime.Now.ToString("F");
         }
+
+        private void InsertarBtn_Click(object sender, System.EventArgs e)
+        {
+            InsertForm insertForm = new InsertForm();
+            insertForm.Show();
+            this.Visible = false;
+        }
     }
 }
