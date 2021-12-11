@@ -1,5 +1,0 @@
-C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseDatos\bin\Release\ClaseDatos.dll
-C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseDatos\bin\Release\ClaseDatos.pdb
-C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseDatos\obj\Release\ClaseDatos.csproj.CoreCompileInputs.cache
-C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseDatos\obj\Release\ClaseDatos.dll
-C:\Users\enriq\OneDrive\Escritorio\C#Projects\FinalProg2\ClaseDatos\obj\Release\ClaseDatos.pdb
